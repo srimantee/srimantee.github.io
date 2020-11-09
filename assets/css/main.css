@@ -31,7 +31,7 @@ body {
   line-height: 1.6;
   font-weight: 300;
   font-family: "Montserrat", sans-serif;
-  color: #9c9ca9;
+  color: #676667;
   font-style: normal;
   overflow-x: hidden;
 }
@@ -100,7 +100,7 @@ a:focus,
 a:active {
   text-decoration: none;
   outline: none;
-  color: #9c9ca9;
+  color: #676667;
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
@@ -309,7 +309,7 @@ img {
 }
 
 .color-dark-gray {
-  color: #9c9ca9 !important;
+  color: #676667 !important;
 }
 
 .color-dark {
@@ -1972,7 +1972,7 @@ img {
   font-size: 16px;
 }
 .img_box_two p {
-  color: #9c9ca9;
+  color: #676667;
   font-size: 14px;
   font-weight: 400;
 }
@@ -2257,7 +2257,7 @@ img {
 .blog_card .blog_card_top .blog_date span {
   font-size: 12px;
   font-weight: 400;
-  color: #9c9ca9;
+  color: #676667;
 }
 .blog_card .blog_card_bottom {
   padding: 25px 0;
@@ -2322,7 +2322,7 @@ img {
   padding: 6px 0;
   display: block;
   width: 100%;
-  color: #9c9ca9;
+  color: #676667;
   font-size: 14px;
   font-weight: 400;
   text-transform: capitalize;
@@ -2357,7 +2357,7 @@ img {
   display: block;
   padding: 10px 12px;
   background-color: #f4f8fc;
-  color: #9c9ca9;
+  color: #676667;
   border: solid 1px #f4f8fc;
   font-size: 12px;
   font-weight: 500;
@@ -2428,13 +2428,13 @@ textarea.form-control {
 }
 .single_progressbar .progress_text {
   margin-bottom: 5px;
-  color: #9c9ca9;
+  color: #676667;
   font-weight: 300;
   font-size: 14px;
   text-transform: capitalize;
 }
 .single_progressbar .progress_text span.progress_bar {
-  color: #9c9ca9;
+  color: #676667;
 }
 .single_progressbar .progress_text .progress_num {
   position: absolute;
