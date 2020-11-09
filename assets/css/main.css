@@ -79,7 +79,7 @@ p {
   margin: 0 0 15px;
   line-height: 2.1;
   font-weight: 300;
-  color: #9c9ca9;
+  color: #676667;
 }
 p:last-child {
   margin-bottom: 0;
@@ -2460,7 +2460,7 @@ textarea.form-control {
 }
 
 .accordion_card {
-  border: solid 1px #09948c;
+  border: solid 0px #09948c;
   border-radius: 0;
   margin: 15px 0;
 }
@@ -2474,8 +2474,8 @@ textarea.form-control {
   margin: 0;
 }
 .accordion_card .card-header h5 a {
-  background-color: #ffffff;
-  color: #09948c;
+  background-color: #09948c;
+  color: #ffffff;
   display: block;
   padding: 15px;
   border-bottom: solid 1px #09948c;
@@ -2486,5 +2486,35 @@ textarea.form-control {
   border-bottom: solid 0 #09948c;
 }
 .accordion_card .card-body {
+  font-size: 16px;
+}
+
+.accordion_card2 {
+  border: solid 1px #09948c;
+  border-radius: 0;
+  margin: 15px 0;
+}
+.accordion_card2 .card-header {
+  color: #ffffff;
+  border-bottom: 0;
+  border-radius: 0 !important;
+  padding: 0;
+}
+.accordion_card2 .card-header h5 {
+  margin: 0;
+}
+.accordion_card2 .card-header h5 a {
+  background-color: #ffffff;
+  color: #09948c;
+  display: block;
+  padding: 15px;
+  border-bottom: solid 1px #09948c;
+}
+.accordion_card2 .card-header h5 a.collapsed {
+  background-color: #ffffff;
+  color: #09948c;
+  border-bottom: solid 0 #09948c;
+}
+.accordion_card2 .card-body {
   font-size: 16px;
 }
