@@ -1780,6 +1780,11 @@ img {
   background-repeat: no-repeat;
 }
 
+@media screen and (max-width: 768px) {
+  .img_card .img_section {
+    display:none;
+  }
+}
 /*  ----------------------------------------------------
 4 buttons
 -------------------------------------------------------- */
